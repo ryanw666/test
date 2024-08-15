@@ -1,4 +1,5 @@
-<button data-command="hi">Button 1</button>
-<button data-command="hi">Button 2</button>
+<insert-text file="./package.json" line="0" col="0">
 
-# test
+inserted text!
+
+</insert-text>
